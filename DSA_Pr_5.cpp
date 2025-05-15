@@ -1,3 +1,6 @@
+/*Consider Telephone book database of N clients. Make use of hash table implementation to
+quickly look up clients telephone number.*/
+
 #include<iostream>
 #include <string>
 using namespace std;
