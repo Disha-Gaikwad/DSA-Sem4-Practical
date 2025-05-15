@@ -1,3 +1,8 @@
+/*A Dictionary stores keywords &amp; its meanings. Provide facility for adding new keywords, deleting keywords, updating values of any entry. 
+Provide facility to display whole data sorted in ascending/ Descending order. 
+Also find how many maximum comparisons may require for finding any keyword. 
+Use Height Balance Tree and fins complexity for finding keyword.*/
+    
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
