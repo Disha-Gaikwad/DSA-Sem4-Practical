@@ -1,4 +1,4 @@
-/*Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure.*/
+/*Implement the Heap/Shell sort algorithm implemented in C++ demonstrating heap/shell data structure.*/
 
 #include <iostream>
 using namespace std;
